@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/MainGame/Scenes/MainGameScene.unity
+    guid: a972fd578824b834794587e25702af2c
+  - enabled: 1
+    path: Assets/MiniGames/CodeFinder/Scenes/EnterCode.unity
+    guid: 554f3788b1575b848a4146f3520d9151
+  - enabled: 1
+    path: Assets/MiniGames/Buildings/Buildings.unity
+    guid: 8f2478cdec060fe488c0ff4bebbcb968
+  - enabled: 1
+    path: Assets/MiniGames/Speech/Speech Scene.unity
+    guid: 8a1a986d3e1d8c84197ae46f265a5056
+  - enabled: 1
+    path: Assets/MiniGames/Democraty/Democraty Scene.unity
+    guid: 35c606e316ad8ca47954cf9d69f5c140
+  - enabled: 1
+    path: Assets/MiniGames/LoadBattery/LoadBatteryScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
